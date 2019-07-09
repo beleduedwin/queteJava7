@@ -11,7 +11,7 @@ public class Car extends Vehicule{
     @Override
     public String doStuff() {
 
-        return "je suis " + this.getBrand() + "et je fais glou glou !";
+        return "je suis " + this.getBrand() + "et je fais vroum vroum !";
     }
 
     }
